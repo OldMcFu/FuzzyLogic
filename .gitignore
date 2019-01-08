@@ -1,3 +1,6 @@
+#external libs
+libs/external
+
 # Prerequisites
 *.d
 
